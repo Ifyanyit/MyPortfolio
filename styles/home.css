@@ -6,11 +6,6 @@
 }
 
 /* Mobile first Css example */
-@media screen and (max-width: 600px) {
-  * {
-    width: 50%;
-  }
-}
 /* navigation starts here */
 #header-nav-div {
   width: 100%;
