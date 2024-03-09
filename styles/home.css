@@ -5,6 +5,13 @@
   padding: 0px;
 }
 
+/* Mobile first Css example */
+@media (min-width: 600px) {
+  .column {
+    width: 50%;
+  }
+}
+
 /* navigation starts here */
 #header-nav-div {
   width: 100%;
